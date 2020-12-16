@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.godwinjk.timetracker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.godwinjk.timetracker.MyBundle
 
 class MyApplicationService {
 
